@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=orange&style=for-the-badge"/>
 </p>
 
 ## Introdução
